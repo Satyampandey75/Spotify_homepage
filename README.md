@@ -22,7 +22,7 @@ This project focuses on front-end design and aims to replicate the look and feel
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/spotify-ui-clone.git
+   https://github.com/Satyampandey75/Spotify_homepage.git
    ```
 2. Open the `index.html` file in your browser.
 
